@@ -1,0 +1,10 @@
+numpy==1.23.0
+openrouteservice==2.3.3
+pandas==1.4.0
+promise==2.3
+pydot==1.4.2
+python-dateutil==2.8.1
+python-dotenv==0.17.1
+requests==2.25.1
+Rx==1.6.1
+flask
